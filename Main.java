@@ -1,5 +1,5 @@
 /*
-* The "factorial" program outputs the factorial of the users input recursively 
+* The "factorial" program outputs the factorial of the users input recursively
 *
 * @author  Darien R-H
 * @version 1.0
